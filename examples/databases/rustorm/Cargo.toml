@@ -1,0 +1,10 @@
+[package]
+name = "rustorm"
+version = "0.1.0"
+authors = ["Julian Laubstein <julianlaubstein@yahoo.de>"]
+
+[dependencies]
+rustorm = "*"
+uuid = "*"
+chrono = "*"
+rustc-serialize = "*"

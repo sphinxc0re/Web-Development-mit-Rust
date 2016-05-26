@@ -1,0 +1,10 @@
+[package]
+name = "diesel"
+version = "0.1.0"
+authors = ["Julian Laubstein <julianlaubstein@yahoo.de>"]
+
+[dependencies]
+
+[lib]
+name = "diesel"
+path = "diesel.rs"
